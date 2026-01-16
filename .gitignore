@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio outputs (optional)
+data/audio/*.wav
+data/audio/*.wav
+git add .
